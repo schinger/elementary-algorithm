@@ -1,6 +1,6 @@
 # elementary-algorithm
 elementary algorithms, for interview, for interests
-- quicksort.py : two kinds of quick sort implementation.
+- quicksort.py : two kinds of quick sort implementations.
 - sortwithoutloop.py : sort without loop.
 - printself.py : print self code. 
 - get_primes.py : get primes less than n using sieve algorithm.
